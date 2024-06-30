@@ -1,0 +1,31 @@
+[
+   {
+      "title":"Bed 1",
+      "image":"bedroom.jpeg",
+      "categories":[
+         "Bedroom"
+      ]
+   },
+   {
+      "title":"Bed 2 pink",
+      "image":"bedroom.jpeg",
+      "categories":[
+         "Bedroom"
+      ]
+   },
+   {
+      "title":"Living Room 1",
+      "image":"living-room.jpeg",
+      "categories":[
+         "Living Room"
+      ]
+   },
+   {
+      "title":"Living Room 2 pink",
+      "image":"living-room.jpeg",
+      "categories":[
+         "Living Room"
+      ]
+   }
+
+]
