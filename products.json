@@ -26,6 +26,48 @@
       "categories":[
          "Living Room"
       ]
+   },
+   {
+      "title":"Dining Room 1",
+      "image":"dining-room.jpeg",
+      "categories":[
+         "Dining Room"
+      ]
+   },
+   {
+      "title":"Dining Room 2 pink",
+      "image":"dining-room.jpeg",
+      "categories":[
+         "Dining Room"
+      ]
+   },
+   {
+      "title":"Office 1",
+      "image":"office.jpeg",
+      "categories":[
+         "Office Furniture"
+      ]
+   },
+   {
+      "title":"Office 2 pink",
+      "image":"office.jpeg",
+      "categories":[
+         "Office Furniture"
+      ]
+   },
+   {
+      "title":"Outdoor 1",
+      "image":"outdoor.jpeg",
+      "categories":[
+         "Outdoor Furniture"
+      ]
+   },
+   {
+      "title":"Outdoor 2 pink",
+      "image":"outdoor.jpeg",
+      "categories":[
+         "Outdoor Furniture"
+      ]
    }
 
 ]
