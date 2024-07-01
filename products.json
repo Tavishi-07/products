@@ -29,14 +29,14 @@
    },
    {
       "title":"Dining Room 1",
-      "image":"/assets/dining-room.jpeg",
+      "image":"dining-room.jpeg",
       "categories":[
          "Dining Room"
       ]
    },
    {
       "title":"Dining Room 2 pink",
-      "image":"/assets/dining-room.jpeg",
+      "image":"dining-room.jpeg",
       "categories":[
          "Dining Room"
       ]
