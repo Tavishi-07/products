@@ -83,14 +83,80 @@
       "title":"Living Room 1",
       "image":"living-room.jpeg",
       "categories":[
-         "Living Room"
+         "Living Room",
+         "Sofas"
       ]
    },
    {
       "title":"Living Room 2 pink",
       "image":"living-room.jpeg",
       "categories":[
-         "Living Room"
+         "Living Room",
+         "Sofas"
+      ]
+   },
+   {
+      "title":"Coffee Table 1",
+      "image":"living-room.jpeg",
+      "categories":[
+         "Living Room",
+         "Coffee Tables"
+      ]
+   },
+   {
+      "title":"Coffee Table 2",
+      "image":"living-room.jpeg",
+      "categories":[
+         "Living Room",
+         "Coffee Tables"
+      ]
+   },
+   {
+      "title":"TV Unit 1",
+      "image":"living-room.jpeg",
+      "categories":[
+         "Living Room",
+         "TV Units"
+      ]
+   },
+   {
+      "title":"TV Unit 2",
+      "image":"living-room.jpeg",
+      "categories":[
+         "Living Room",
+         "TV Units"
+      ]
+   },
+   {
+      "title":"Recliner 1",
+      "image":"living-room.jpeg",
+      "categories":[
+         "Living Room",
+         "Recliners"
+      ]
+   },
+   {
+      "title":"Recliner 2",
+      "image":"living-room.jpeg",
+      "categories":[
+         "Living Room",
+         "Recliners"
+      ]
+   },
+   {
+      "title":"Bookshelf 1",
+      "image":"living-room.jpeg",
+      "categories":[
+         "Living Room",
+         "Bookshelves"
+      ]
+   },
+   {
+      "title":"Bookshelf 2",
+      "image":"living-room.jpeg",
+      "categories":[
+         "Living Room",
+         "Bookshelves"
       ]
    },
    {
