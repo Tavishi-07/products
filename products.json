@@ -80,7 +80,7 @@
       ]
    },
    {
-      "title":"Living Room 1",
+      "title":"Sofa 1",
       "image":"living-room.jpeg",
       "categories":[
          "Living Room",
@@ -88,7 +88,7 @@
       ]
    },
    {
-      "title":"Living Room 2 pink",
+      "title":"Sofa 2 pink",
       "image":"living-room.jpeg",
       "categories":[
          "Living Room",
@@ -160,45 +160,195 @@
       ]
    },
    {
-      "title":"Dining Room 1",
+      "title":"Dining Table 1",
       "image":"dining-room.jpeg",
       "categories":[
-         "Dining Room"
+         "Dining Room",
+         "Dining Tables"
       ]
    },
    {
-      "title":"Dining Room 2 pink",
+      "title":"Dining Table 2 pink",
       "image":"dining-room.jpeg",
       "categories":[
-         "Dining Room"
+         "Dining Room",
+         "Dining Tables"
       ]
    },
    {
-      "title":"Office 1",
+      "title":"Chair 1",
+      "image":"dining-room.jpeg",
+      "categories":[
+         "Dining Room",
+         "Chairs"
+      ]
+   },
+   {
+      "title":"Chair 2",
+      "image":"dining-room.jpeg",
+      "categories":[
+         "Dining Room",
+         "Chairs"
+      ]
+   },
+   {
+      "title":"Sideboard 1",
+      "image":"dining-room.jpeg",
+      "categories":[
+         "Dining Room",
+         "Sideboards"
+      ]
+   },
+   {
+      "title":"Sideboard 2",
+      "image":"dining-room.jpeg",
+      "categories":[
+         "Dining Room",
+         "Sideboards"
+      ]
+   },
+   {
+      "title":"Bar-Stool 1",
+      "image":"dining-room.jpeg",
+      "categories":[
+         "Dining Room",
+         "Bar Stools"
+      ]
+   },
+   {
+      "title":"Bar-Stool 2",
+      "image":"dining-room.jpeg",
+      "categories":[
+         "Dining Room",
+         "Bar Stools"
+      ]
+   },
+   {
+      "title":"Desk 1",
       "image":"office.jpeg",
       "categories":[
-         "Office Furniture"
+         "Office Furniture",
+         "Desks"
       ]
    },
    {
-      "title":"Office 2 pink",
+      "title":"Desk 2 pink",
       "image":"office.jpeg",
       "categories":[
-         "Office Furniture"
+         "Office Furniture",
+         "Desks"
       ]
    },
    {
-      "title":"Outdoor 1",
-      "image":"outdoor.jpeg",
+      "title":"Office Chair 1",
+      "image":"office.jpeg",
       "categories":[
-         "Outdoor Furniture"
+         "Office Furniture",
+         "Office Chairs"
       ]
    },
    {
-      "title":"Outdoor 2 pink",
+      "title":"Office Chair 2",
+      "image":"office.jpeg",
+      "categories":[
+         "Office Furniture",
+         "Office Chairs"
+      ]
+   },
+   {
+      "title":"Filing Cabinet 1",
+      "image":"office.jpeg",
+      "categories":[
+         "Office Furniture",
+         "Filing Cabinets"
+      ]
+   },
+   {
+      "title":"Filing Cabinet 2",
+      "image":"office.jpeg",
+      "categories":[
+         "Office Furniture",
+         "Filing Cabinets"
+      ]
+   },
+   {
+      "title":"Conference Table 1",
+      "image":"office.jpeg",
+      "categories":[
+         "Office Furniture",
+         "Conference Tables"
+      ]
+   },
+   {
+      "title":"Conference Table 2",
+      "image":"office.jpeg",
+      "categories":[
+         "Office Furniture",
+         "Conference Tables"
+      ]
+   },
+   {
+      "title":"Patio Set 1",
       "image":"outdoor.jpeg",
       "categories":[
-         "Outdoor Furniture"
+         "Outdoor Furniture",
+         "Patio Sets"
+      ]
+   },
+   {
+      "title":"Patio Set 2 pink",
+      "image":"outdoor.jpeg",
+      "categories":[
+         "Outdoor Furniture",
+         "Patio Sets"
+      ]
+   },
+   {
+      "title":"Lounge Chair 1",
+      "image":"outdoor.jpeg",
+      "categories":[
+         "Outdoor Furniture",
+         "Lounge Chairs"
+      ]
+   },
+   {
+      "title":"Lounge Chair 2",
+      "image":"outdoor.jpeg",
+      "categories":[
+         "Outdoor Furniture",
+         "Lounge Chairs"
+      ]
+   },
+   {
+      "title":"Outdoor Table 1",
+      "image":"outdoor.jpeg",
+      "categories":[
+         "Outdoor Furniture",
+         "Outdoor Tables"
+      ]
+   },
+   {
+      "title":"Outdoor Table 2",
+      "image":"outdoor.jpeg",
+      "categories":[
+         "Outdoor Furniture",
+         "Outdoor Tables"
+      ]
+   },
+   {
+      "title":"Umbrella 1",
+      "image":"outdoor.jpeg",
+      "categories":[
+         "Outdoor Furniture",
+         "Umbrellas"
+      ]
+   },
+   {
+      "title":"Umbrella 2",
+      "image":"outdoor.jpeg",
+      "categories":[
+         "Outdoor Furniture",
+         "Umbrellas"
       ]
    }
 
