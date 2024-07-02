@@ -3,14 +3,80 @@
       "title":"Bed 1",
       "image":"bedroom.jpeg",
       "categories":[
-         "Bedroom"
+         "Bedroom",
+         "Beds"
       ]
    },
    {
       "title":"Bed 2 pink",
       "image":"bedroom.jpeg",
       "categories":[
-         "Bedroom"
+         "Bedroom",
+         "Beds"
+      ]
+   },
+   {
+      "title":"Wardrobe 1",
+      "image":"bedroom.jpeg",
+      "categories":[
+         "Bedroom",
+         "Wardrobes"
+      ]
+   },
+   {
+      "title":"Wardrobe 2",
+      "image":"bedroom.jpeg",
+      "categories":[
+         "Bedroom",
+         "Wardrobes"
+      ]
+   },
+   {
+      "title":"Nightstand 1",
+      "image":"bedroom.jpeg",
+      "categories":[
+         "Bedroom",
+         "Nightstands"
+      ]
+   },
+   {
+      "title":"Nightstand 2",
+      "image":"bedroom.jpeg",
+      "categories":[
+         "Bedroom",
+         "Nightstands"
+      ]
+   },
+   {
+      "title":"Dresser 1",
+      "image":"bedroom.jpeg",
+      "categories":[
+         "Bedroom",
+         "Dressers"
+      ]
+   },
+   {
+      "title":"Dresser 2",
+      "image":"bedroom.jpeg",
+      "categories":[
+         "Bedroom",
+         "Dressers"
+      ]
+   },
+   {
+      "title":"Mattress 1",
+      "image":"bedroom.jpeg",
+      "categories":[
+         "Bedroom",
+         "Mattresses"
+      ]
+   },
+   {
+      "title":"Mattress 2",
+      "image":"bedroom.jpeg",
+      "categories":[
+         "Bedroom",
+         "Mattresses"
       ]
    },
    {
